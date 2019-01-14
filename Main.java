@@ -5,9 +5,9 @@ public class Main {
 
         System.out.println("Hello world");
 
-        System.out.println(isPalindrome("Хай-бро"));
+        System.out.println(isPalindrome("Хай"));
 
-        System.out.println(isPalindrome("ого"));
+        System.out.println(isPalindrome("шалаш"));
 
         for (int i = 0; i < 200; i++) {
 
